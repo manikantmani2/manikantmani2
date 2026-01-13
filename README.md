@@ -56,7 +56,7 @@ Building scalable web applications with **Next.js, Node.js & MongoDB**. Final-ye
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikantmani2)](https://github.com/manikantmani2/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikantmani2&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manikantmani2&layout=compact&theme=dark)
 
 ---
